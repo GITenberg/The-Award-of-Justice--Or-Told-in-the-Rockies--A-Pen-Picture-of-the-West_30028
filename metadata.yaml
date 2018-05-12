@@ -1,0 +1,29 @@
+_repo: The-Award-of-Justice--Or-Told-in-the-Rockies--A-Pen-Picture-of-the-West_30028
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Barbour, A. Maynard (Anna Maynard)
+    alias: Barbour, Anna Maynard
+    deathdate: 1941
+    gutenberg_agent_id: '841'
+    url: http://www.gutenberg.org/2009/agents/841
+    wikipedia: http://en.wikipedia.org/wiki/Anna_Maynard_Barbour
+description: ''
+gutenberg_issued: '2009-09-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30028'
+  lccn: 01024970
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Rocky Mountains -- Fiction'
+- !lcsh 'Mountain life -- Fiction'
+title: 'The Award of Justice; Or, Told in the Rockies: A Pen Picture of the West'
+url: http://www.gutenberg.org/ebooks/30028
