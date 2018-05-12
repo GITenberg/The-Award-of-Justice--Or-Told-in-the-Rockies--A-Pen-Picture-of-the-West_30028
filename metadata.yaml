@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/841
     wikipedia: http://en.wikipedia.org/wiki/Anna_Maynard_Barbour
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30028#The-Award-of-Justice--Or-Told-in-the-Rockies--A-Pen-Picture-of-the-West
 gutenberg_issued: '2009-09-19'
 gutenberg_type: Text
 identifiers:
